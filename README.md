@@ -11,7 +11,7 @@ A ReactJS-based e-commerce shopping cart application with Context API for state 
 
 1. Clone the repository
 ```bash
-git clone <https://github.com/Pritimayasahoo/graphin.git>
+git clone https://github.com/Pritimayasahoo/graphin.git
 cd shopping-cart
 ```
 
